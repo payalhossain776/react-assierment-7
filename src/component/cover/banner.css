@@ -1,0 +1,17 @@
+.bgloot{
+    background-image: url(../src/assets/img/johnathan-macedo-4NQEvxW2_4w-unsplash.jpg);
+    height: 1020px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* box-shadow:rgba(0, 0, 0, 10); */
+  }
+  /* .gay{
+    width:1580px;
+    height: 780px; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    box-shadow: inset 0 0 200px rgba(0, 0, 0, 10);
+  } */
+ 
